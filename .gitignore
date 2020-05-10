@@ -5,3 +5,5 @@ package-lock.json
 #Buidler files
 cache
 artifacts
+
+.next.config.js
